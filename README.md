@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.threads.com%2F%40mosseri%2Fpost%2FCuaOfqML2R5%3Fhl%3Dvi&psig=AOvVaw1y2svGxfu4dM7DwPNc4_dI&ust=1752763938344000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCOotHQwY4DFQAAAAAdAAAAABAE" alt="Threads Logo" width="120"/>
+  <img src="https://rgb.vn/wp-content/uploads/2024/07/rgb-meta-threads-logo-design-4.jpg" alt="Threads Logo" width="120"/>
   <br />
   Threads Clone App
 </h1>
